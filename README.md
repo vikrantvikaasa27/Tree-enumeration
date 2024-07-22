@@ -13,7 +13,7 @@ This project aims to provide an automated solution for tree enumeration and gree
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Shobika-k2004/Tree-Enumeration.git
+    git clone https://github.com/vikrantvikaasa27/Tree-enumeration.git
     ```
 
 2. Install the required dependencies:
